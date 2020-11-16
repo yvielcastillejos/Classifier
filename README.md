@@ -35,4 +35,4 @@
 - this time it does not save any images, just txt files
 
 ## Reference 
-<img src = "https://github.com/ece324-2020/CabbageJumble-aya/blob/main/Classifier-GUI/src/Screen%20Shot%202020-11-16%20at%205.22.36%20PM.png" height = 500 width = 500>
+<img src = "https://github.com/yvielcastillejos/Classifier/blob/main/src/Screen%20Shot%202020-11-16%20at%205.41.25%20PM.png" height = 500 width = 500>
